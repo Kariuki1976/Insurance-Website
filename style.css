@@ -1,7 +1,13 @@
+body{
+    background-image: url(../image/slim.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
 .section-1{
-    height: 800px;
+    height: 1000px;
+    width: 100%;
     border: 1px solid red;
-    background-image: url('../image/slim.png');
+    /* background-image: url('../image/slim.png'); */
 }
 .nav-bar{
     display: flex;
@@ -27,18 +33,25 @@ li{
     margin-top: -11px;
 }
 #button-1{
+    background: blue;
+    color: white;
     margin-right: 200px;
     
 }
 .ensure{
     font-size: 80px;
+    color: white;
+    font-weight: bolder;
     display: flex;
     justify-content: center;
 }
 .objects{
     font-size: 30px;
+    color: white;
+    font-weight: 900px;
     display: flex;
     justify-content: center;
+    margin-bottom: 70px;
 }
 .button2{
     color: white;
