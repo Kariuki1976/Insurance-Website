@@ -157,6 +157,7 @@ li{
     /* display: inline-flex;
     justify-content: space-around; */
     border: 1px solid green;
+    background-color: rgba(209, 209, 209, 0.288);
 }
 .header{
     text-align: center;
@@ -169,17 +170,52 @@ li{
     justify-content: space-around;
 }
 .card4{
-    border: 1px solid red;
+    /* border: 1px solid red; */
     border-radius: 5px;
     height: 300px;
+    width: 280px;
+    text-align: center;
+    padding-top: 30px;
+    margin-left: 300px;
+    margin-top: 30px;
+    background: white;
+}
+#image1{
+    height: 100px;
 }
 .card5{
-    border: 1px solid red;
+    /* border: 1px solid red; */
     border-radius: 5px;
     height: 300px;
+    width: 280px;
+    text-align: center;
+    padding-top: 30px;
+    margin-top: 30px;
+    background: white;
+}
+#image2{
+    height: 100px;
 }
 .card6{
-    border: 1px solid red;
+    /* border: 1px solid red; */
     border-radius: 5px;
     height: 300px;
+    width: 270px;
+    text-align: center;
+    padding: 20px;
+    margin-right: 300px;
+    margin-top: 30px;
+    background: white;
+}
+#image3{
+    height: 100px;
+}
+.vectors img{
+    /* margin: 1rem, 1rem, 0rem, 3rem; */
+    border: 1px solid red;
+    /* display: flexbox;
+    justify-content: space-around; */
+    margin-left: 9%;
+    margin-top: 100px;
+    height: 50px;
 }
