@@ -1,0 +1,20 @@
+.section-1{
+    height: 800px;
+    border: 1px solid red;
+    background-size: cover;
+    background-image: url('images/hero.png');
+}
+.nav-bar{
+    display: flex;
+    justify-content: space-evenly;
+}
+.brandname{
+    /* padding-right: 800px; */
+    border: 1px solid blue;
+
+}
+ul{
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+}
