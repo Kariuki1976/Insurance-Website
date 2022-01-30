@@ -1,20 +1,56 @@
 .section-1{
     height: 800px;
     border: 1px solid red;
-    background-size: cover;
-    background-image: url('images/hero.png');
+    background-image: url('../image/slim.png');
 }
 .nav-bar{
     display: flex;
-    justify-content: space-evenly;
+    justify-content: space-between;
 }
 .brandname{
     /* padding-right: 800px; */
     border: 1px solid blue;
-
+    font-size: 40px;
+    margin-left: 200px;
 }
 ul{
     list-style: none;
     display: flex;
     justify-content: space-between;
+}
+li{
+    border: 1px solid green;
+    padding: 40px;
+    margin-top: -30px;
+}
+#login{
+    margin-top: -11px;
+}
+#button-1{
+    margin-right: 200px;
+    
+}
+.ensure{
+    font-size: 80px;
+    display: flex;
+    justify-content: center;
+}
+.objects{
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+}
+.button2{
+    color: white;
+    background: blue;
+    font-size: 40px;
+    border-radius: 10px;
+    margin-left: 700px
+    
+    
+}
+.button3{
+    font-size: 40px;
+    border-radius: 10px;
+    color: white;
 }
