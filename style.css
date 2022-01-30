@@ -151,3 +151,6 @@ li{
     font-weight: 100;
     font-style: italic;
 }
+.checked {
+    color: orange;
+}
