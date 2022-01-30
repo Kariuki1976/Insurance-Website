@@ -117,7 +117,7 @@ li{
     margin-top: -90px;
 }
 .section-3{
-    border: 1px solid red;
+    /* border: 1px solid red; */
     height: 300px;
     display: flex;
     justify-content: space-around;
