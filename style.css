@@ -9,7 +9,7 @@ body{
     padding: 2% 2% 46% 5%;
     height: 10px;
     /* width: 100%; */
-  
+  background-color: rgba(0, 0, 0, 0.2);
 }
 .nav-bar{
     display: flex;
@@ -80,6 +80,7 @@ li{
 }
 .section-2{
     height: 300px;
+    /* background-color: red; */
     /* border: 2px solid red; */
     display: flex;
     justify-content: space-around;
