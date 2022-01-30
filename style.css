@@ -30,14 +30,14 @@ li{
     color: white;
     border: 1px solid green;
     padding: 40px;
-    margin-top: -30px;
+    margin-top: -15px;
 }
 #login{
-    margin-top: -11px;
+    margin-top: -15px;
 }
 #button-1{
-    width: 200px;
-    height: 80px;
+    width: 210px;
+    height: 70px;
     background: blue;
     color: white;
     font-size: 20px;
@@ -64,13 +64,13 @@ li{
     color: white;
     background: blue;
     font-size: 30px;
-    border-radius: 10px;
-    margin-left: 700px
-    
-    
+    border-radius: 20%;
+    margin-left: 700px;
 }
 .button3{
-    font-size: 40px;
-    border-radius: 10px;
+    height: 70px;
+    font-size: 30px;
+    border-radius: 20%;
     color: white;
+    background: none;
 }
