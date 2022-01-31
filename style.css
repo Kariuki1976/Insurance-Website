@@ -317,19 +317,25 @@ li{
     width: 20px;
 }
 .section-5{
+    border: 1px solid red;
     height: 800px;
+    background: #252B42;
 }
 .blue{
     display: flex;
     justify-content: space-between;
 }
 .braches{
-    border: 1px solid red;
-    margin-left: 50px;
+    /* border: 1px solid red; */
+    margin-left: 300px;
+    margin-top: 100px;
 }
 .world{
+    border: 1px solid red;
     margin-right: 200px;
+    width: 600px;
+    height: 300px;
 }
 .gradual{
-    
+   margin-left: 300px; 
 }
