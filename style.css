@@ -152,7 +152,7 @@ li{
     font-style: italic;
 }
 .section-4{
-    height: 1000px;
+    height: 1400px;
     width: 100%;
     /* display: inline-flex;
     justify-content: space-around; */
@@ -235,4 +235,25 @@ li{
 .email{
     border: 1px solid green;
     margin-right: 20px;
+}
+/* .span{
+    position: relative;
+} */
+.pricing{
+    /* border: 1px solid red; */
+    margin-left: 550px;
+    margin-right: 600px;
+    padding-left: 20px;
+    margin-top: 60px;
+
+}
+.pricing h2{
+    font-size: 40px;
+    text-align: center;
+}
+.pricing p{
+    font-style: italic;
+    text-align: center;
+    font-size: 10px;
+    padding: -30px;
 }
