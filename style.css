@@ -386,3 +386,8 @@ li{
     background: #25A6F0;
     text-align: center;
 }
+.dope{
+    display: flex;
+    justify-content: space-around;
+    
+}
