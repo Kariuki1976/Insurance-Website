@@ -6,12 +6,13 @@
     /* height: 100px; */
     /* width: 100%; */
     height: 0px;
-    background-image: url(../image/slim.png);
+    background-image: url(image/slim.jpg);
     background-repeat: no-repeat;
     background-size: cover;
+    background-position: center;
 } 
-.overlay-section-1{
-    background-color: rgba(0, 0, 0, 0.2);
+.overlay{
+    background-color: rgba(0, 0, 0, 0.9);
 }
 .nav-bar{
     display: flex;
@@ -343,9 +344,6 @@ li{
     /* border: 1px solid red; */
    background: rgba(209, 209, 209, 0.288);
 }
-/* .overlay-section-6{ */
-    /* background: rgba(0, 0, 0.1, 0.8); */
-/* } */
 .last{
     height: 450px;
     width: 200px;
@@ -389,5 +387,5 @@ li{
 .dope{
     display: flex;
     justify-content: space-around;
-    
+
 }
