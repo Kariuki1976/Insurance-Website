@@ -218,4 +218,10 @@ li{
     margin-left: 9%;
     margin-top: 100px;
     height: 50px;
+    margin-bottom: 80px;
+}
+.subscribe{
+    display: flex;
+    justify-content: center;
+    height: 50px;
 }
