@@ -339,3 +339,47 @@ li{
 .gradual{
    margin-left: 300px; 
 }
+.section-6{
+    height: 500px;
+    border: 1px solid red;
+   background: rgba(209, 209, 209, 0.288);
+}
+.last{
+    height: 450px;
+    width: 200px;
+}
+.perfect{
+    display: flex;
+    justify-content: center;
+    margin-top: -200px;
+    /* border: 1px solid grey ; */
+    background: white;
+    margin-left: 670px;
+    margin-right: 670px;
+}
+.forme{
+    margin-left: 30px;
+    
+}
+#Name{
+    width: 300px;
+    height: 30px;
+}
+#email{
+    width: 300px;
+    height: 30px;
+}
+#Department{
+    width: 300px;
+    height: 30px;
+}
+#Time{
+    width: 300px;
+    height: 30px;
+}
+.appointment{
+    width: 300px;
+    height: 30px;
+    background: #25A6F0;
+    text-align: center;
+}
