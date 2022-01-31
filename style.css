@@ -316,3 +316,20 @@ li{
     height: 20px;
     width: 20px;
 }
+.section-5{
+    height: 800px;
+}
+.blue{
+    display: flex;
+    justify-content: space-between;
+}
+.braches{
+    border: 1px solid red;
+    margin-left: 50px;
+}
+.world{
+    margin-right: 200px;
+}
+.gradual{
+    
+}
