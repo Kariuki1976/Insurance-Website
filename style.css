@@ -352,13 +352,14 @@ li{
     display: flex;
     justify-content: center;
     margin-top: -200px;
-    /* border: 1px solid grey ; */
+    /* border: 1px solid red; */
     background: white;
-    margin-left: 670px;
-    margin-right: 670px;
+    margin-left: 660px;
+    margin-right: 660px;
 }
 .forme{
     margin-left: 30px;
+    margin-right: 30px;
     
 }
 #Name{
