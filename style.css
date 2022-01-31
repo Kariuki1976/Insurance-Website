@@ -220,8 +220,19 @@ li{
     height: 50px;
     margin-bottom: 80px;
 }
-.subscribe{
-    display: flex;
-    justify-content: center;
+.latest{
+    /* display: flex;
+    justify-content: center; */
     height: 50px;
+    width: 500px;
+    border: 1px solid red;
+    margin-left: 700px;
+    color: white;
+    text-align: start;
+    background: linear-gradient(120deg, rgb(4, 0, 255)  45%, rgb(98, 0, 128) 55%);
+    /* margin-right: 9500px; */
+}
+.email{
+    border: 1px solid green;
+    margin-right: 20px;
 }
