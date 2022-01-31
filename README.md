@@ -9,7 +9,7 @@ of an Insurance marketing policy
 
 ### Technology used
 
-Index.HTML
+HTML for structure and positioning
 
 Style.CSS
 # Reference
