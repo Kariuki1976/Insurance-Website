@@ -152,11 +152,11 @@ li{
     font-style: italic;
 }
 .section-4{
-    height: 1400px;
+    height: 1500px;
     width: 100%;
     /* display: inline-flex;
     justify-content: space-around; */
-    border: 1px solid green;
+    /* border: 1px solid green; */
     background-color: rgba(209, 209, 209, 0.288);
 }
 .header{
@@ -260,14 +260,14 @@ li{
 .allcards{
     display: flex;
     justify-content: space-around;
-    border: 1px solid red;
+    /* border: 1px solid red; */
     margin-top: 50px;
 }
 .card7{
     border: 1px solid green;
     border-radius: 5px;
     text-align: center;
-    height: 400px;
+    height: 420px;
     width: 300px;
     background: white;
     margin-left: 600px;
@@ -280,7 +280,7 @@ li{
     border: 1px solid green;
     border-radius: 5px;
     text-align: center;
-    height: 420px;
+    height: 440px;
     width: 300px;
     background: #252B42;
     color: white;
@@ -292,7 +292,7 @@ li{
     border: 1px solid green;
     border-radius: 5px;
     text-align: center;
-    height: 400px;
+    height: 420px;
     width: 300px;
     background: white;
     margin-right: 600px;
@@ -309,6 +309,10 @@ li{
   border-radius: 5px;
 }
 #green{
-    height: 10px;
-    width: 10px;
+    height: 20px;
+    width: 20px;
+}
+#tick{
+    height: 20px;
+    width: 20px;
 }
