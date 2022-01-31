@@ -261,29 +261,54 @@ li{
     display: flex;
     justify-content: space-around;
     border: 1px solid red;
+    margin-top: 50px;
 }
 .card7{
     border: 1px solid green;
+    border-radius: 5px;
     text-align: center;
-    height: auto;
+    height: 400px;
     width: 300px;
     background: white;
+    margin-left: 600px;
+    margin-top: 20px;
+}
+.card7 h3{
+    color: #25A6F0;
 }
 .card8{
     border: 1px solid green;
+    border-radius: 5px;
     text-align: center;
-    height: auto;
+    height: 420px;
     width: 300px;
     background: #252B42;
     color: white;
 } 
+.card8 h3{
+    color: #25A6F0;
+}
 .card9{
     border: 1px solid green;
+    border-radius: 5px;
     text-align: center;
-    height: auto;
+    height: 400px;
     width: 300px;
     background: white;
+    margin-right: 600px;
+    margin-top: 20px;
+}
+.card9 h3{
+    color: #25A6F0;
 }
 .free{
   background: #25A6F0;  
+  color: white;
+  height: 30px;
+  width: 150px;
+  border-radius: 5px;
+}
+#green{
+    height: 10px;
+    width: 10px;
 }
