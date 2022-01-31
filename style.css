@@ -257,3 +257,33 @@ li{
     font-size: 10px;
     padding: -30px;
 }
+.allcards{
+    display: flex;
+    justify-content: space-around;
+    border: 1px solid red;
+}
+.card7{
+    border: 1px solid green;
+    text-align: center;
+    height: auto;
+    width: 300px;
+    background: white;
+}
+.card8{
+    border: 1px solid green;
+    text-align: center;
+    height: auto;
+    width: 300px;
+    background: #252B42;
+    color: white;
+} 
+.card9{
+    border: 1px solid green;
+    text-align: center;
+    height: auto;
+    width: 300px;
+    background: white;
+}
+.free{
+  background: #25A6F0;  
+}
